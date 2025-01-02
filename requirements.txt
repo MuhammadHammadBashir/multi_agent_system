@@ -1,0 +1,7 @@
+openai
+streamlit
+pandas
+loguru
+python-dotenv
+# Random change for commit 19
+# Random change for commit 17
