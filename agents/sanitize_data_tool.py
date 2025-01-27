@@ -19,6 +19,4 @@ class SanitizeDataTool(AgentBase):
         ]
         sanitized_data = self.call_openai(messages, max_tokens=500)
         return sanitized_data
-# Random change for commit 11
-# Random change for commit 16
-# Random change for commit 19
+
